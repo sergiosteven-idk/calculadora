@@ -26,6 +26,6 @@ if op =='1':
 elif op == '2':
     print ('el resultado de la resta es: ', resta(num1, num2))
 elif op == '3':
-    print('el resultado de la multiplciación es: ', multiplciacion(num1, num2))
+    print('el resultado de la multiplciación es: ', multiplicacion(num1, num2))
 else:
     print('opcion no válida, intenta de nuevo.')
